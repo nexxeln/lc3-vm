@@ -1,0 +1,9 @@
+[package]
+name = "lc3-vm"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+termios = "0.3"
+nix = "0.26"
+signal-hook = "0.3"
